@@ -278,12 +278,10 @@ if __name__ == "__main__":
     #qi.put("https://www.motors.ru/")
     #qi.put("http://www.alsaad.ru/path/to/url")
     #handler(qi)
-    print _DPI.blabla('Test static ')
     #dpi = _DPI("1.2.3.4", "user", "password")
     #print dpi.list_domains()
     #print dpi.list_urls()
     #if not dpi: print "Connection Error"
-    #dpi.add_url("bash.im")
     #dpi.get_statistics("2017-03-02", "2017-03-02", "meduza.io")
     #dpi.get_url_kp_cons("2017-03-15", "2017-03-16", "http://2kom.ru")
     #add_domains(["https://2kom.ru", "https://en.myshows.me/"])
